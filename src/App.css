@@ -36,3 +36,51 @@
     transform: rotate(360deg);
   }
 }
+
+.MuiFormControl-root {
+
+  width: 25%;
+}
+
+.Single_Fields {
+  width:50% !important;
+}
+
+.Combined_Fields {
+  margin:20px auto;
+}
+
+.MuiFormHelperText-root  {
+  color: #f44336 !important;
+}
+
+.Buttons_Group {
+  margin: 0px auto;
+  width: 50%;
+}
+.MuiButton-containedSecondary {
+  float: left !important;
+}
+.MuiButton-containedPrimary{
+  float: right;
+}
+.MuiCard-root {
+  background: #222930 !important;
+}
+.MuiInputLabel-outlined , .MuiInputLabel-outlined.MuiInputLabel-shrink{
+  color: #4EB1BA !important;
+}
+.MuiOutlinedInput-input , .ReviewContent {
+  color: #E9E9E9 !important;
+}
+.MuiGrid-spacing-xs-3 > .MuiGrid-item {
+  margin: 0px auto;
+}
+.MuiGrid-spacing-xs-3 > .MuiGrid-item {
+  margin: 50px auto;
+  background: darkblue;
+}
+.MuiButton-contained.Mui-disabled {
+
+  color: grey;
+}
